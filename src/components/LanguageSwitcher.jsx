@@ -12,7 +12,7 @@ function LanguageSwitcher() {
 
   return (
     <div className="toggle-container" onClick={languageSwitcher}>
-      <span className="globe">🌍</span>
+      {/* <span className="globe">🌍</span> */}
       <div className={`toggle ${i18n.language === "en" ? "active" : ""}`}>
         <span className="label">
           {i18n.language === "pt" ? "PT" : "EN"}
