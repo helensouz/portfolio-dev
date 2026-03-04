@@ -1,0 +1,78 @@
+ {
+    "light": "Light",
+    "dark": "Dark",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact",
+    "available": "Available for Jr Developer roles | SP, Brazil",
+    "role-description": "Full Stack Developer with hands-on experience in Angular, Node.js, Spring Boot and modern web technologies — passionate about building elegant, scalable applications.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "sectionStack": {
+        "sectionTitle": "Tech Stack",
+        "title": "Skills & Technologies",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "databases": "Databases",
+        "tools": "Tools",
+        "Styling": "Styling",
+        "designSystem": "Design System",
+        "integrations": "Integration",
+        "testing": "Testing"
+    },
+    "sectionProjects": {
+        "sectionTitle": "Projects",
+        "title": "In progress",
+        "project1": "Project 1: E-commerce Web App",
+        "project2": "Project 2: Personal Portfolio",
+        "project3": "Project 3: Task Management API",
+        "project4": "Project 4: Real-time Chat App"
+    },
+    "sectionExperience": {
+        "sectionTitle": "Career",
+        "title": "Experience",
+        "Present": "Present",
+        "Intern": "Intern",
+        "Computer Operator — Mainframe Support": "Mainframe Support",
+       "Front End Developer Intern": "Front End Developer Intern",
+       "Full Stack Developer Jr": "Full Stack Developer Jr",
+       "computer-description-li": "Real-time monitoring of critical subsystems: JES2, VTAM, TCP/IP, DB2, and CICS — including console message verification and return code/ABEND analysis.",
+       "computer-description-li2": "Operational failure recovery: log and dump evidence collection, escalation to second-level teams, and direct technical support.",
+       "computer-description-li3": "Computational resource management: print queue control, dataset allocation, job submission and reprocessing.",
+        "computer-description-li4": "Support in maintenance windows, IPL, updates and planned changes following ITIL procedures.",
+        "computer-description-li5": "Hands-on with TSO/ISPF, SDSF, JCL, z/OSMF, System Z, and IBM i (AS/400) environments.",
+        "computer-description-li6": "Monitoring tools: Jira, OCM, ServiceNow, operational dashboards, and proprietary consoles.",
+        "intern-description-li": "Created reusable, modular Angular components ensuring maintainability, scalability, and code standardization.",
+        "intern-description-li2": "Applied custom styles with CSS and SCSS using Angular Material, delivering modern, accessible, and responsive UIs.",
+        "intern-description-li3": "Frontend-backend integration using REST APIs, observables, and Angular services for state management and dynamic UI updates.",
+        "intern-description-li4": "Applied best practices in architecture, Git versioning, endpoint consumption, payload standardization, and basic interface testing.",
+        "fullstack-description-li": "Developed features using Angular and Vue.js on the frontend, integrated with Java and Spring Boot services on the backend, with MongoDB for data storage.",
+        "fullstack-description-li2": "Consumed internal APIs and ensured efficient, scalable data integration using Postman for HTTP request testing and validation.",
+        "fullstack-description-li3": "Built dynamic interfaces with reusable components, styled with CSS, SCSS and Angular Material — delivering modern, responsive, and intuitive experiences." 
+    },
+    "sectionAbout": {
+        "sectionTitle": "About Me",
+        "title": "Full Stack Developer",
+        "iam":"I am a",
+        "description1": "I'm a Full Stack Developer based in São Paulo, currently working as a Computer Operator at IBM Brasil while actively seeking my next opportunity as a Junior Developer.",
+        "description2": "With experience spanning Angular, Vue.js, Node.js, Spring Boot, Java, and MongoDB, I bring both frontend creativity and backend structure to the products I build. I'm passionate about clean code, great UX, and continuous learning.",
+        "description3": "My background in enterprise environments (IBM) has given me strong discipline around processes, documentation, and collaboration — skills I bring directly into development work.",
+        "education": "Education",
+        "education1": "Technology Analysis in Systems Development",
+        "education2": "Cruzeiro do Sul University, São Paulo (2020 - 2023)",
+    "english": "English",
+    "englishLevel": "Conversation and Writing"
+    },
+    "sectionContact": {
+        "sectionTitle": "Contact",
+        "title": "Get in Touch"
+    },
+    "createdBy": "© 2026 Helen Souz · 🩷 · São Paulo, Brasil"
+
+
+
+
+   }
+

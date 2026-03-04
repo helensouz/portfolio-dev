@@ -1,0 +1,44 @@
+.toggle-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  background: #f3f4f6;
+  padding: 4px 10px;
+  border-radius: 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  user-select: none;
+  
+}
+
+.globe {
+  font-size: 18px;
+}
+
+.toggle {
+  width: 50px;
+  height: 26px;
+  background: #d1d5db;
+  border-radius: 20px;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.toggle.active {
+  background: #4f46e5;
+}
+
+.label {
+  position: absolute;
+  top: 50%;
+  left: 6px;
+  transform: translateY(-50%);
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.toggle.active .label {
+  left: 26px;
+}

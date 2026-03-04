@@ -1,0 +1,78 @@
+ {
+    "light": "Claro",   
+    "dark": "Escuro",
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "experience": "Experiência",
+    "contact": "Contato",
+    "available": "Disponível para vagas de Desenvolvedor Jr | SP, Brasil",
+    "role-description": "Desenvolvedora Full Stack com experiência prática em Angular, Node.js, Spring Boot e tecnologias web modernas — apaixonada por construir aplicações elegantes e escaláveis.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "sectionStack": {
+        "sectionTitle": "Tech Stack",
+        "title": "Habilidades & Tecnologias",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "databases": "Bancos de Dados",
+        "tools": "Ferramentas",
+        "Styling": "Estilização",
+        "designSystem": "Design System",
+        "integrations": "Integração",
+        "testing": "Testes"
+    },
+    "sectionProjects": {
+        "sectionTitle": "Projetos",
+        "title": "Em andamento",
+        "project1": "Projeto 1: Aplicação Web de E-commerce",
+        "project2": "Projeto 2: Portfólio Pessoal",
+        "project3": "Projeto 3: API de Gerenciamento de Tarefas",
+        "project4": "Projeto 4: Aplicação de Chat em Tempo Real"
+    },
+    "sectionExperience": {
+        "sectionTitle": "Carreira",
+        "title": "Experiência",
+        "Present": "Presente",
+        "Intern": "Estágio",
+        "Computer Operator — Mainframe Support": "Suporte Mainframe",
+       "Front End Developer Intern": "Estagiária de Desenvolvimento Front End",
+       "Full Stack Developer Jr": "Desenvolvedora Full Stack Jr",
+       "computer-description-li": "Monitoramento em tempo real de subsistemas críticos: JES2, VTAM, TCP/IP, DB2 e CICS — incluindo verificação de mensagens de console e análise de códigos de retorno/ABEND.",
+       "computer-description-li2": "Recuperação de falhas operacionais: coleta de evidências de logs e dumps, escalonamento para equipes de segundo nível e suporte técnico direto.",
+       "computer-description-li3": "Gerenciamento de recursos computacionais: controle de filas de impressão, alocação de datasets, submissão e reprocessamento de jobs.",
+        "computer-description-li4": "Suporte em janelas de manutenção, IPL, atualizações e mudanças planejadas seguindo procedimentos ITIL.",
+        "computer-description-li5": "Experiência prática com ambientes TSO/ISPF, SDSF, JCL, z/OSMF, System Z e IBM i (AS/400).",
+        "computer-description-li6": "Ferramentas de monitoramento: Jira, OCM, ServiceNow, dashboards operacionais e consoles proprietários.",
+        "intern-description-li": "Criação de componentes Angular reutilizáveis e modulares garantindo manutenibilidade, escalabilidade e padronização do código.",
+        "intern-description-li2": "Aplicação de estilos personalizados com CSS e SCSS usando Angular Material, entregando UIs modernas, acessíveis e responsivas.",
+        "intern-description-li3": "Integração frontend-backend usando APIs REST, observables e serviços Angular para gerenciamento de estado e atualizações dinâmicas da UI.",
+        "intern-description-li4": "Aplicação das melhores práticas em arquitetura, versionamento Git, consumo de endpoints, padronização de payloads e testes básicos de interface.",
+        "fullstack-description-li": "Desenvolvimento de funcionalidades usando Angular e Vue.js no frontend, integrado com serviços Java e Spring Boot no backend, com MongoDB para armazenamento de dados.",
+        "fullstack-description-li2": "Consumo de APIs internas e garantia de integração de dados eficiente e escalável usando Postman para testes e validação de requisições HTTP.",
+        "fullstack-description-li3": "Construção de interfaces dinâmicas com componentes reutilizáveis, estilizados com CSS, SCSS e Angular Material — entregando experiências modernas, responsivas e intuitivas." 
+    },
+    "sectionAbout": {
+        "sectionTitle": "Sobre Mim",
+        "title": "Desenvolvedora Full Stack",
+        "description1": "Sou uma Desenvolvedora Full Stack baseada em São Paulo, atualmente trabalhando como Operadora de Computador na IBM Brasil enquanto busco ativamente minha próxima oportunidade como Desenvolvedora Júnior.",
+        "description2": "Com experiência abrangendo Angular, Vue.js, Node.js, Spring Boot, Java e MongoDB, trago tanto criatividade frontend quanto estrutura backend para os produtos que construo. Sou apaixonada por código limpo, ótima UX e aprendizado contínuo.",
+        "description3": "Minha experiência em ambientes corporativos (IBM) me deu forte disciplina em torno de processos, documentação e colaboração — habilidades que trago diretamente para o trabalho de desenvolvimento.",
+        "englishLevel": " Conversação e escrita",
+        "education1": "Bacharelado em Ciência da Computação - Universidade de São Paulo (USP) - Conclusão: 2024",
+        "education2": "Universidade Cruzeiro do Sul, São Paulo (2020 - 2023)",
+        "education": "Educação",
+        "iam":"Eu sou uma",
+        "description4": "Desenvolvedora Full Stack apaixonada por criar soluções elegantes e eficientes. Com experiência em Angular, Node.js, Spring Boot, Java e MongoDB, trago uma abordagem completa para o desenvolvimento de aplicações. Sou dedicada a escrever código limpo, construir ótimas experiências de usuário e aprender continuamente para me manter atualizada com as últimas tecnologias.",
+        "description5": "Atualmente, trabalho como Operadora de Computador na IBM Brasil, onde desenvolvi habilidades valiosas em monitoramento de sistemas, resolução de problemas e colaboração em equipe. Estou entusiasmada para aplicar minha experiência e paixão pelo desenvolvimento em um novo desafio como Desenvolvedora Júnior."
+
+    },
+    "sectionContact": {
+
+        "sectionTitle": "Contato",
+        "title": "Vamos conversar!"
+    },
+    "createdBy": "© 2026 Helen Souz · 🩷 · São Paulo, Brasil"
+
+}
+

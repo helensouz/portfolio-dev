@@ -106,6 +106,24 @@
 
 }
 
+.container.dark .btn-ghost{
+  color: white;
+}
+.container.dark #about p{
+  color: white;
+}
+.container.dark section p{
+  color: white;
+}
+.container.dark .about-text, .about-text p strong{
+  color: white;
+}
+
+.container.dark .badge-2, .badge-1, .badge-3{
+  
+  color: var(--rose-accent);
+}
+
 
   /* ── NOISE + MESH BACKGROUND ── */
   body::before {
@@ -180,9 +198,11 @@
     align-items: center;
     padding: 8rem 4rem 4rem;
     gap: 2rem;
+    display: flex;
+    justify-content: space-evenly;
   }
 
-  .hero-text { }
+  
 
   .hero-eyebrow {
     display: inline-flex;
@@ -449,6 +469,14 @@
     margin-bottom: 0.3rem;
   }
 
+  .education-item p{
+  font-size: 0.8rem;
+  font-weight: 600;
+    color: var(--text);
+    margin-top: 0.7rem;
+    margin-bottom: 0.4rem;
+  }
+
   .timeline-company {
     font-size: 0.8rem;
     color: var(--text-muted);
@@ -532,7 +560,7 @@
     gap: 1.2rem;
   }
 
-  .lang-item { }
+
   .lang-label {
     display: flex;
     justify-content: space-between;
